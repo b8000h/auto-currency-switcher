@@ -1,3 +1,5 @@
-app/code/community/Chapagain/AutoCurrency/*
+app/code/community/Chapagain/AutoCurrency/etc/*
+app/code/community/Chapagain/AutoCurrency/Helper/*
+app/code/community/Chapagain/AutoCurrency/Model/*
 app/etc/modules/*
 var/geoip
